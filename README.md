@@ -25,3 +25,4 @@ The goal of this project was to build a practical backend API that demonstrates 
 * Mongoose
 * dotenv
 * RESTful APIs
+* Middleware
